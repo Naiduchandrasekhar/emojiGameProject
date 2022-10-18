@@ -1,0 +1,45 @@
+/* Write your code here. */
+
+.bgContainer {
+  background-color: #ababbd;
+  height: 55px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.logo {
+  height: 35px;
+  width: 35px;
+}
+
+.logoContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.scoreContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.emojiHeading {
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.scoreHeading {
+  font-size: 16px;
+  color: #ffffff;
+  margin-right: 13px;
+  font-weight: bold;
+}
+
+.topScoreHeading {
+  font-size: 16px;
+  color: #ffffff;
+  font-weight: bold;
+}
